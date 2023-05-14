@@ -1,4 +1,4 @@
-## Olá, me chamo Adriana! Sou estudante de Desenvolvimento Web!
+## Olá :wave:, me chamo Adriana! Sou estudante de Desenvolvimento Web :man_technologist:!
 
 <div>
 <a href="https://github.com/AdrianaKatarina">
@@ -15,10 +15,8 @@
   <img alt="icon-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
   <img alt="icon-NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
   <img alt="icon-Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="30" height="30"/>
-  <img alt="icon-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25" height="30"/>
 </div>
 
 ##
-<a href="https://www.linkedin.com/in/adroliveira/" target="_blank"><img src="https://img.shields.io/badge/-     LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/adroliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/AdrianaKatarina/AdrianaKatarina/blob/output/github-contribution-grid-snake.svg)
