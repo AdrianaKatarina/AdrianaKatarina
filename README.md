@@ -5,7 +5,7 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AdrianaKatarina&show_icons=true&theme=dark"/>
 </div>
 
-### Atualmente estou aprendendo as seguintes ferramentas e tecnologias:
+### Atualmente estou utilizando as seguintes ferramentas e tecnologias:
 <div style="display: inline_block"><br>
   <img alt="icon-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
   <img alt="icon-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
